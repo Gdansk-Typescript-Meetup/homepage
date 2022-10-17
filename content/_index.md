@@ -1,5 +1,5 @@
 ---
-title: Escola Gdansk TypeScript Meetup
+title: Hi. Escola Gdansk TypeScript Meetup
 description: Escola Gdansk TypeScript Meetup
 ---
 
